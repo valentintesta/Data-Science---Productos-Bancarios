@@ -8,7 +8,7 @@ Serie de proyectos de Machine Learning orientado a distintos productos bancarios
 - Ploty
 - Scikit-learn
 - Scipy
-Algortimos de ML:
+## Algortimos de ML:
 - LogisticRegression
 - DecisionTreeClassifier
 - SMV
