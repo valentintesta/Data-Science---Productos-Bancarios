@@ -1,5 +1,5 @@
 # Data-Science-Productos-Bancarios
-Serie de proyectos de Machine Learning orientado a distintos productos bancarios.
+Serie de proyectos de Machine Learning orientado a productos bancarios.
 ## Dataset
 - Santander Product Recommendation : https://www.kaggle.com/competitions/santander-product-recommendation/data
 - Bank Customer Churn: https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
